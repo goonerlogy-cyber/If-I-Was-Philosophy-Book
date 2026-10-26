@@ -27,4 +27,6 @@ Medieval illuminated manuscript aesthetic: parchment, gold leaf, ships under con
 
 *If I was the person who needed this book, I no longer am. That, too, is part of the point.*
 
-**Repository:** https://github.com/goonerlogy-cyber/If-I-Was-Philosophy-Book
+**Repository:** https://github.com/justalivefornothing/If-I-Was-Philosophy-Book
+
+License: none — all rights reserved.
